@@ -11,3 +11,8 @@ h1 {
     font-size: 50px;
     color: white;
 }
+
+a, a:visited, a:active {
+    color: aquamarine !important;
+    font-size: 16px;
+}
